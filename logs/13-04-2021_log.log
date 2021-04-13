@@ -1,0 +1,81 @@
+2021-04-13 12:01:45 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:01:47 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:02:15 INFO  Listeners:39 - Test excelLogin has failed
+2021-04-13 12:02:39 INFO  Listeners:39 - Test excelLogin has failed
+2021-04-13 12:03:03 INFO  Listeners:31 - Test login is executed Succesfully
+2021-04-13 12:03:27 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:03:34 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:03:36 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:03:39 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:03:42 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:03:51 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:03:52 INFO  SimpleOrderTest:94 - Order id is COSBMROVP
+2021-04-13 12:03:52 INFO  Listeners:31 - Test printOrderid is executed Succesfully
+2021-04-13 12:07:52 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:07:53 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:08:18 INFO  LoginPageTest:53 - Website Title Assertion Passed
+2021-04-13 12:08:18 INFO  Listeners:31 - Test excelLogin is executed Succesfully
+2021-04-13 12:08:42 INFO  LoginPageTest:53 - Website Title Assertion Passed
+2021-04-13 12:08:42 INFO  Listeners:31 - Test excelLogin is executed Succesfully
+2021-04-13 12:09:09 INFO  Listeners:31 - Test login is executed Succesfully
+2021-04-13 12:09:32 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:09:42 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:09:45 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:09:48 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:09:53 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:10:26 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:10:26 INFO  SimpleOrderTest:94 - Order id is AWTIARJMF
+2021-04-13 12:10:26 INFO  Listeners:31 - Test printOrderid is executed Succesfully
+2021-04-13 12:16:56 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:16:57 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:18:34 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:18:35 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:27:31 INFO  Listeners:39 - Test verifyHomePageTitle has failed
+2021-04-13 12:27:32 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:30:18 INFO  Listeners:39 - Test verifyHomePageTitle has failed
+2021-04-13 12:30:19 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:31:52 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:31:53 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:34:11 INFO  Listeners:31 - Test verifyHomePageTitle is executed Succesfully
+2021-04-13 12:34:12 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:35:05 INFO  Listeners:39 - Test verifyHomePageTitle has failed
+2021-04-13 12:35:06 INFO  Listeners:31 - Test verifyWebsiteEmail is executed Succesfully
+2021-04-13 12:37:50 INFO  SimpleOrderTest:93 - Order id is BMEDVWIHB
+2021-04-13 12:39:00 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:39:09 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:39:12 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:39:15 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:39:19 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:39:29 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:39:30 INFO  SimpleOrderTest:93 - Order id is BTDSZZLDT
+2021-04-13 12:39:30 INFO  Listeners:31 - Test printOrderid is executed Succesfully
+2021-04-13 12:43:12 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:43:21 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:43:26 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:43:30 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:43:34 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:43:49 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:43:49 INFO  Listeners:39 - Test printOrderid has failed
+2021-04-13 12:45:01 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:45:07 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:45:11 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:45:16 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:45:19 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:45:32 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:45:32 INFO  SimpleOrderTest:93 - Order id is RRZIIWQNU
+2021-04-13 12:45:32 INFO  Listeners:31 - Test printOrderid is executed Succesfully
+2021-04-13 12:46:49 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:46:56 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:46:57 INFO  Listeners:39 - Test clickOnSummaryPageCheckout has failed
+2021-04-13 12:46:58 INFO  Listeners:39 - Test clickOnAddressPageCheckout has failed
+2021-04-13 12:46:59 INFO  Listeners:39 - Test shippingPageTest has failed
+2021-04-13 12:47:00 INFO  Listeners:39 - Test paymentPageTest has failed
+2021-04-13 12:47:00 INFO  Listeners:39 - Test printOrderid has failed
+2021-04-13 12:48:33 INFO  Listeners:31 - Test addingProduct1 is executed Succesfully
+2021-04-13 12:48:41 INFO  Listeners:31 - Test addingProduct2 is executed Succesfully
+2021-04-13 12:48:44 INFO  Listeners:31 - Test clickOnSummaryPageCheckout is executed Succesfully
+2021-04-13 12:48:46 INFO  Listeners:31 - Test clickOnAddressPageCheckout is executed Succesfully
+2021-04-13 12:48:51 INFO  Listeners:31 - Test shippingPageTest is executed Succesfully
+2021-04-13 12:49:01 INFO  Listeners:31 - Test paymentPageTest is executed Succesfully
+2021-04-13 12:49:02 INFO  SimpleOrderTest:93 - Order id is JDRIJOOAJ
+2021-04-13 12:49:02 INFO  Listeners:31 - Test printOrderid is executed Succesfully

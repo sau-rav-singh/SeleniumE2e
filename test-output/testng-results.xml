@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-13T12:48:01 IST" name="Suite" finished-at="2021-04-13T12:49:03 IST" duration-ms="61459">
+    <groups>
+    </groups>
+    <test started-at="2021-04-13T12:48:01 IST" name="Test" finished-at="2021-04-13T12:49:03 IST" duration-ms="61459">
+      <class name="com.saurav.testcases.SimpleOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:01 IST" name="setup" finished-at="2021-04-13T12:48:30 IST" duration-ms="28335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addingProduct1()[pri:1, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:30 IST" name="addingProduct1" finished-at="2021-04-13T12:48:33 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingProduct1 -->
+        <test-method signature="addingProduct2()[pri:2, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:35 IST" name="addingProduct2" finished-at="2021-04-13T12:48:41 IST" duration-ms="5860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingProduct2 -->
+        <test-method signature="clickOnSummaryPageCheckout()[pri:3, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:42 IST" name="clickOnSummaryPageCheckout" finished-at="2021-04-13T12:48:44 IST" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSummaryPageCheckout -->
+        <test-method signature="clickOnAddressPageCheckout()[pri:4, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:44 IST" name="clickOnAddressPageCheckout" finished-at="2021-04-13T12:48:46 IST" duration-ms="1932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddressPageCheckout -->
+        <test-method signature="shippingPageTest()[pri:5, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:47 IST" name="shippingPageTest" finished-at="2021-04-13T12:48:51 IST" duration-ms="3684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shippingPageTest -->
+        <test-method signature="paymentPageTest()[pri:6, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:48:52 IST" name="paymentPageTest" finished-at="2021-04-13T12:49:01 IST" duration-ms="8999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPageTest -->
+        <test-method signature="printOrderid()[pri:7, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:49:01 IST" name="printOrderid" finished-at="2021-04-13T12:49:02 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printOrderid -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saurav.testcases.SimpleOrderTest@338fc1d8]" started-at="2021-04-13T12:49:02 IST" name="tearDown" finished-at="2021-04-13T12:49:03 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saurav.testcases.SimpleOrderTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
