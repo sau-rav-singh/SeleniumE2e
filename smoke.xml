@@ -7,8 +7,8 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<!--<class name="com.saurav.testcases.HomePageTest" />
-			  <class name="com.saurav.testcases.LoginPageTest" />-->
+			<class name="com.saurav.testcases.HomePageTest" />
+			  <!--<class name="com.saurav.testcases.LoginPageTest" />-->
 			<class name="com.saurav.testcases.SimpleOrderTest" />
 		</classes>
 	</test> <!-- Test -->
